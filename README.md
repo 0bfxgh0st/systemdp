@@ -9,5 +9,5 @@ The resultant is a root shell so this is a privilege escalation script
 
 Run sudo bash RAT-service.sh  
 ![alt text](https://github.com/0bfxGH0ST/RATS/blob/main/screenshots/screenshot1.png) 
-BOOM! Root privileges  
+Connecting to the permanent service via netcat and...BOOM! Root privileges after connect    
 ![alt text](https://github.com/0bfxGH0ST/RATS/blob/main/screenshots/screenshot2.png)
