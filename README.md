@@ -1,4 +1,5 @@
 # RATS
+**user must have sudo rights**  
 Remote Access Tool Service  
 Make a persistent service with a custom script by using systemd on the fly  
 
